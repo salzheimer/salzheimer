@@ -11,6 +11,7 @@ My name is Scott, and I am an experienced Software Engineer primarily in the Mic
 - 🌱 I’m currently learning
   -  Platform Engineering concepts, including refining Kubernetes skills
   -  AI Agent development
+  -  Refreshing my Python and Node.js skills 
 
 <!--
 **salzheimer/salzheimer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
