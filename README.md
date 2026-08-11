@@ -6,7 +6,8 @@ My name is Scott, and I am an experienced Software Engineer primarily in the Mic
 
 
 - 🔭 I’m currently working on
-  -  A meal planning application using Postgres, React, C# microservices, and containers
+  -  A meal planning application using Postgres, React, C# .NET 10 microservices, and Docker containers
+  -  VPP/DERMS simulator using Postgres, C#, .NET 10, Python, Docker Containers
   -  IOT Thermostat using a Raspberry Pi Pico with MicroPython connected to an Azure IOT hub. View the project [here](https://github.com/salzheimer/IOT-Thermostat)
 - 🌱 I’m currently learning
   -  Platform Engineering concepts, including refining Kubernetes skills
